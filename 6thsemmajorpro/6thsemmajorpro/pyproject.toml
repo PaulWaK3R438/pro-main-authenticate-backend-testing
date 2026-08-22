@@ -1,0 +1,10 @@
+[project]
+name = "6thsemmajorpro"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "cvzone==1.6.1",
+    "opencv-python==4.13.0.92",
+    "pip==26.0.1",
+    "ultralytics==8.4.41",
+]
